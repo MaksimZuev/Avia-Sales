@@ -92,7 +92,7 @@ import Footer from "./Footer";
 import isWithinInterval from "date-fns/isWithinInterval";
 import format from "date-fns/format";
 export default {
-  name: "v-Nav",
+  name: "v-Main",
 
   components: {
     Header,
